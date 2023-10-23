@@ -62,7 +62,7 @@ header  .navbar-collapse {
 }
 
 #contatos {
-    background-color: #black;
+    background-color: black;
 }
 
 @media (max-width: 767px) {
